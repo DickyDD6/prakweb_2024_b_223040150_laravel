@@ -11,9 +11,12 @@
 <body>
     <a href="/">home</a>
     <a href="about">about</a>
+    <a href="/blog">blog</a>
+    <a href="contact">contact</a>
     <h1>halaman about</h1>
     <h3>Owner : {{$nama}}</h3>
     <img src="img/img.png" alt="el kecepatan" width="100">
 </body>
 <script src="js/script.js"></script>
 </html>
+`
